@@ -16,7 +16,7 @@ in the past, which team won. All this was done using responses and parsing. Fina
 make_dataset that took in a list of match IDs and outputted a list of our desired statistics. Everything before 
 make_dataset was used to scrape and obtain the data that you see in the train txt file. 
 
-PART 2: Making the mnodel
+PART 2: Making the model
 
 Next came creating the model. We created a Logistic Regression model but to do that, we had to parse our 
 list of dictionaries into a csv file, which we did right after our data scraping code. Once we parsed our 
