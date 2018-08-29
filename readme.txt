@@ -1,4 +1,4 @@
-Final Project: League of Legends Game Predictor
+League of Legends Game Predictor
 
 Charles Sansone and Hannah Walsh
 
